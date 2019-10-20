@@ -1,31 +1,22 @@
-# Hello World Imba
+# mangfold.dev
 
-Tiny template for testing out Imba using [CSS modules][0]. Click [Use this
-template][1] on GitHub to create a new repository with this template.
+Website for the mangfold static site generator.
 
 ## Getting started
 
 ```
-git clone https://github.com/imba/hello-world-imba
-cd hello-world-imba
+git clone https://github.com/mangfold/website
+cd website
 yarn # npm install
 ```
 
-You can run the app in two ways, either served via the webpack-dev-server or
-Express.
-
-### Webpack
+### Development
 
 ```bash
 # start webpack-dev-server and compiler
 yarn run dev # npm run dev
 ```
 
-### Server side
+This project was created from the [hello-world-imba][1] template.
 
-```
-./node_modules/.bin/imba src/server.imba
-```
-
-[0]: https://github.com/css-modules/css-modules
-[1]: https://github.com/imba/hello-world-imba/generate
+[1]: https://github.com/imba/hello-world-imba
