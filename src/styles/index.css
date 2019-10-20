@@ -116,3 +116,11 @@ li {
   padding: 1rem; 
   max-width: 250px;
 }
+
+.vbox a {
+  text-decoration: none;
+}
+
+.coming:hover {
+  background: hotpink;
+}
