@@ -124,3 +124,14 @@ li {
 .coming:hover {
   background: hotpink;
 }
+
+/* Media queries */
+
+@media (max-width: 700px) {
+  .description {
+    font-size: 3rem;
+  }
+  .title {
+    font-size: 5rem;
+  }
+}
