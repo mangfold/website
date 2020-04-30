@@ -7,7 +7,7 @@ module.exports = {
 				test: /\.imba$/,
 				loader: 'imba/loader',
 			},
-		]
+		],
 	},
 	resolve: {
 		extensions: [".imba", ".js", ".json"]
