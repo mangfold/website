@@ -26,6 +26,10 @@ tag mangfold-dev
 		text-align: center;
 	}
 
+	.description a {
+		color: #6997F8;
+	}
+
 	.coming {
 		width: 100%;
 		text-align: center;
@@ -58,7 +62,9 @@ tag mangfold-dev
 		<self>
 			<div.content>
 				<h1.title> "mangfold"
-				<p.description> "A new way to develop static websites in Imba."
+				<p.description> 
+					"A new way to develop static websites in "
+					<a href="https://github.com/imba/imba"> "Imba"
 				<a href="mailto:alexander@alemayhu.com?subject=Tell me about mangfold"> <h2.coming> "coming soon"
 
 imba.mount <mangfold-dev>
