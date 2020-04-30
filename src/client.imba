@@ -29,10 +29,11 @@ tag mangfold-dev
 	.coming {
 		width: 100%;
 		text-align: center;
-		background: greenyellow;
+		background: cornflowerblue;
 		padding: 1rem; 
 		max-width: 250px;
-		border: 3px solid white;
+		border-radius: 12px;
+		color: white;
 	}
 
 	.content a {
@@ -41,8 +42,7 @@ tag mangfold-dev
 
 	.coming:hover {
 		color: white;
-		border: 3px solid black;
-		margin: 3px;
+		background: yellowgreen;
 	}
 
 	@media (max-width: 700px) {
