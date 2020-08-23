@@ -63,8 +63,7 @@ tag mangfold-dev
 			<div.content>
 				<h1.title> "mangfold"
 				<p.description> 
-					"A new way to develop static websites in "
-					<a href="https://github.com/imba/imba"> "Imba"
+					"Convert Notion pages to beautiful websites in seconds!"
 				<a href="mailto:alexander@alemayhu.com?subject=Tell me about mangfold"> <h2.coming> "coming soon"
 
 imba.mount <mangfold-dev>
